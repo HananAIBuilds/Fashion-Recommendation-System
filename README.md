@@ -109,7 +109,7 @@ streamlit run app.py
 ---
 
 ## 📁 Project Structure
-Fashion-Recomended-Sytsem/
+Fashion-Recommendation-System/
 ├── app.py                    # Streamlit web app
 ├── Recomende_System.ipynb    # Training notebook
 ├── model.h5                  # Trained CNN model
