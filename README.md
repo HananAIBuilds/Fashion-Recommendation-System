@@ -93,7 +93,7 @@ Streamlit Web App
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/ChintoHacker/Fashion-Recomended-Sytsem.git
+git clone https://github.com/HananAIBuilds/Fashion-Recomended-Sytsem.git
 cd Fashion-Recomended-Sytsem
 
 # 2. Install dependencies
