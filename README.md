@@ -93,8 +93,8 @@ Streamlit Web App
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/HananAIBuilds/Fashion-Recomended-Sytsem.git
-cd Fashion-Recomended-Sytsem
+git clone https://github.com/HananAIBuilds/Fashion-Recommendation-System.git
+cd Fashion-Recommendation-System
 
 # 2. Install dependencies
 pip install -r requirements.txt
